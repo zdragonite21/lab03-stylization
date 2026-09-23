@@ -1,3 +1,7 @@
+<img width="1956" height="1244" alt="image" src="https://github.com/user-attachments/assets/9dca4a2b-2261-462c-af35-2eb08934bc2e" />
+
+
+
 # Lab 03 - Stylization!
 Let's practice adding stylization to a 3D scene using Unity's shader graph!
 
